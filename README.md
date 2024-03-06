@@ -1,1 +1,1 @@
-C# Projects Of Online Shopping Mart.
+Term Projects Created in C#
